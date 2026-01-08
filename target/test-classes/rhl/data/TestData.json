@@ -1,0 +1,38 @@
+[
+  {
+    "emailId": "saitama@mail.com",
+    "mobileNumber": "9876543210",
+    "otpReceivedOnEmail": "otp123",
+    "otpReceivedOnMobile": "otp456",
+    "nickName": "Saitama",
+    "friendName": "Genos",
+    "bloodType": "O+",
+    "hsc": 2020,
+    "schoolTeacherName": "Mr. Ishigami",
+    "sportTeacherName": "Coach Yamamoto"
+  },
+  {
+    "emailId": "goku@mail.com",
+    "mobileNumber": "9123456789",
+    "otpReceivedOnEmail": "otp789",
+    "otpReceivedOnMobile": "otp012",
+    "nickName": "Goku",
+    "friendName": "Krillin",
+    "bloodType": "AB-",
+    "hsc": 2018,
+    "schoolTeacherName": "Mrs. Chichi",
+    "sportTeacherName": "Coach Tenka"
+  },
+  {
+    "emailId": "naruto@mail.com",
+    "mobileNumber": "9988776655",
+    "otpReceivedOnEmail": "otp345",
+    "otpReceivedOnMobile": "otp678",
+    "nickName": "Naruto",
+    "friendName": "Sasuke",
+    "bloodType": "B+",
+    "hsc": 2017,
+    "schoolTeacherName": "Mr. Iruka",
+    "sportTeacherName": "Coach Kakashi"
+  }
+]
