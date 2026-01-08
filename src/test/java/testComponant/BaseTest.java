@@ -17,7 +17,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class BaseTest {
-	
+	//2nd change from local
 	public WebDriver driver;
 	public WebDriver initializeBrowserAndOpenApplication()
 	{
